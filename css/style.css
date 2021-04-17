@@ -1,0 +1,21 @@
+.table .hovering-cell:hover{
+    background: lightgray;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+a:link{
+    text-decoration: none;
+    display: block;
+}
+
+.child {
+    
+    color: red;
+    font-size: larger;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    margin: -25px 0 0 -25px;
+  }

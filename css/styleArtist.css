@@ -1,0 +1,9 @@
+.child {
+    
+    color: red;
+    font-size: larger;
+    position: relative;
+    top: 40%;
+    left: 40%;
+    margin: -25px 0 0 -25px;
+  }
